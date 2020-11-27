@@ -4,4 +4,3 @@
 * list 2
 * list 3
 [Drag USS_Laffey_DD-724](USS_Laffey_DD-724.jpg)
-[![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg)](https://digitalocean.com)
