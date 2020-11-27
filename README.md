@@ -3,4 +3,4 @@
 * list 1
 * list 2
 * list 3
-[](USS_Laffey_DD-724.jpg)
+[](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
